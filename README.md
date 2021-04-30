@@ -1,5 +1,5 @@
 # Sentiment Analysis with Covid19 Tweets
-Covid-19 etiketiyle atılan tweetlerin pozitif ve negatif olarak duygu analizi gerçekleştirilmiştir. 
+Covid-19 etiketiyle atılan tweetlerin pozitif ve negatif olarak duygu analizi gerçekleştirilmiştir. Çalışmada Python dili kullanılmıştır.
 
 Veri Seti Oluşturma:
 Öncelikle tweet içeriğinde gerekli alanlar belirlenmiştir. Ardından tweet veri kaynakları araştırılmıştır. Hazır veri seti sunan bir web sitesinden twweet verileri elde edilmiştir. csv dosyası incelenip 730 tane tweet manuel olarak pozitif(1) ve negatif(0) etiketleriyle etiketlenmiştir.
