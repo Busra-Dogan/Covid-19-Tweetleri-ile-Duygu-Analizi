@@ -18,5 +18,5 @@ Lojistik Regresyon Sınıflandırması:
 Bu çalışmada makine öğrenmesi sınıflandırma algoritmalarından Lojistik Regresyon kullanılmıştır. fit fonksiyonu ile model eğitilmiştir. Sonrasında predict fonksiyonu ile eğitilen model test edilmiştir. 
 Toplamda yapılan doğru tahmin oranını(başarı skorunu) öğrenebilmek için Accuracy Score kullanılmıştır. Bu yöntem uygulandığında başarı skoru 0.7213 gelmiştir. Bu değeri detaylı incelemek için Confisuon Matrix yapısından yararlanılmıştır. Bu yapı bize modelin kaç tane doğru ve yanlış tahmin sayısını göstermektedir. 
 
-Bu işlemlerden sonra işaretlenmemiş veriler modele verilerek, model tahmin etmiştir. 21397 veriden tahmin sonucunda 20773 negatif, 624 pozitif veri elde edilmiştir. 
+Bu işlemlerden sonra işaretlenmemiş veriler modele verilerek, model tahmin etmiştir. 21397 veriden tahmin sonucunda 20773 negatif, 624 pozitif veri elde edilmiştir. Atılan tweetlerde aynı süreçteki hasta, ölüm ve iyileşen sayıları karşılaştırılmıştır.  
 
