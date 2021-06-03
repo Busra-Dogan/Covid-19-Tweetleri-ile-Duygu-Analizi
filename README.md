@@ -1,4 +1,5 @@
 # Sentiment Analysis with Covid19 Tweets
+Bitirme Tasarımı çalışması olarak sunulmuştur ve kabul edilmiştir. 
 Covid-19 etiketiyle atılan tweetlerin pozitif ve negatif olarak duygu analizi gerçekleştirilmiştir. Çalışma Python dili ve Anaconda Spyder üzerinde gerçekleştirilmiştir.
 
 Veri Seti Oluşturma:
